@@ -1,5 +1,3 @@
-
-
 package com.syntax.android.github.ui.gists
 
 import android.support.v7.app.AlertDialog
