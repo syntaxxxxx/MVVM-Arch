@@ -1,4 +1,3 @@
-
 package com.syntax.android.github.model
 
 

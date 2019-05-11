@@ -1,9 +1,7 @@
-
 package com.syntax.android.github.app
 
 import android.app.Application
 import android.content.Context
-
 
 class W00tzeApplication : Application() {
 
